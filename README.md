@@ -10,7 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 or scan qr code:
 
-![1689019693637](image/README/1689019693637.png)
+![1689019818638](image/README/1689019818638.png)
 
 #### Credits:
 
