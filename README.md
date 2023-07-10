@@ -8,6 +8,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [ 🛒 My Grocery List Project Link](https://jovyflagg.github.io/grocery-list/)
 
+or scan qr code:
+
+![1689019693637](image/README/1689019693637.png)
+
 #### Credits:
 
 #### React Icons
@@ -25,7 +29,6 @@ const Component = () => {
   return <FaHome className='icon'></FaHome>;
 };
 ```
-
 
 * John Smilga
 * freeCodeCamp.org
