@@ -1,14 +1,31 @@
-# Birthday Reminder: a React App
+# My Grocery List: a React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![1688319569023](image/README/1688319569023.png)
+![1689018771479](image/README/1689018771479.png)
 
 ### Github page Link below
 
-[🌟 Reviews Project Link](https://jovyflagg.github.io/reviews/)
+[ 🛒 My Grocery List Project Link](https://jovyflagg.github.io/grocery-list/)
 
 #### Credits:
+
+#### React Icons
+
+[react icons](https://react-icons.github.io/react-icons/)
+
+```
+npm install react-icons --save
+```
+
+```javascript
+import { FaEdit } from 'react-icons/fa';
+
+const Component = () => {
+  return <FaHome className='icon'></FaHome>;
+};
+```
+
 
 * John Smilga
 * freeCodeCamp.org
